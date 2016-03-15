@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Receipt";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+
+
+<div class="ask_from">
+    <div class="ask_from_system">
+        RECEIPT DETAIL
+    </div>
+    <div class="ask_from_system_detail">
+
+    </div>
+</div>
+<div class="function">
+    <table class="functiontable" border="0" style=" margin-left: 50px; font-size: 20px;">
+        <tr style="height:30px !important;">
+            <td colspan="2">
+                <b class="text1">Account Name:</b><span style="font:italic;color:red"> @ViewBag.nameSent</span>
+            </td>
+        </tr>
+        <tr style="height:30px !important;">
+            <td colspan=" 2">
+                <b class="text1">Account number:</b> <span style="font:italic;color:red">@ViewBag.NoSent</span>
+        </tr>
+        <tr style="height:30px !important;">
+            <td colspan=" 2">
+                <b class="text1">Accounts received:</b><span style="font:italic;color:red"> @ViewBag.nameRe</span>
+            </td>
+        </tr>
+        <tr style="height:30px !important;">
+            <td colspan=" 2">
+                <b class="text1">Accounts number received:</b> <span style="font:italic;color:red">@ViewBag.NoRecieve</span>
+            </td>
+        </tr>
+        <tr style="height:30px !important;">
+            <td colspan=" 2">
+                <b class="text1">Amount transfer:</b><span style="font:italic;color:red"> @ViewBag.Amount</span>
+            </td>
+        </tr>
+        <tr style="height:30px !important;">
+            <td colspan=" 2">
+                <b class="text1">Time:</b> <span style="font:italic;color:red"> @ViewBag.Time</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel" colspan="2">
+                <a href="/Home/Index"><input type="button" value="OK"></a>
+            </td>
+        </tr>
+    </table>
+</div>

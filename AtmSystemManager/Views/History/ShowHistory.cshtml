@@ -1,0 +1,85 @@
+﻿@model IEnumerable<AtmSystemManager.Models.Log>
+
+@{
+    ViewBag.Title = "ShowHistory";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+<div class="function">
+    <table class="functiontable_1">
+        <tr>
+            <th>ATM (location)</th>
+            <th>Type</th>
+            <th>Date</th>
+            <th>Amount</th>
+            <th>Detail</th>
+        </tr>
+
+        @if (Model.Count() == 0)
+        {
+            <tr>
+
+                <td colspan="5">
+                    <h1 style="font-size:18px">
+                        Not found any history.
+                    </h1>
+                </td>
+            </tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ATM.Branch)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LogType.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LogDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Amount)
+                    </td>
+                    <td style="text-align:left !important;padding-left:5px !important">
+                        @Html.DisplayFor(modelItem => item.Details)
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>
+<div class="footButton">
+    <table class="tbfootButton">
+        <tr>
+            <td>
+                @using (Html.BeginForm("Check", "History", new { check = 1 }))
+                {
+                    <input class="btnhistory" type="submit" value="Back End" style="float:inherit;margin-left:40px;width:150px;height:30px !important;font: normal normal normal normal 13.5px/normal Arial;font-weight:bold;" />
+                }
+            </td>
+            <td>
+                @using (Html.BeginForm("ShowHistory", "History", new { id = -5 }))
+                {
+                    <input class="btnhistory" type="submit" value="< Pre" style="float:left;width:60px;height:30px !important;font: normal normal normal normal 13.5px/normal Arial;font-weight:bold;" />
+                }
+            </td>
+            <td>
+                @using (Html.BeginForm("ShowHistory", "History", new { id = 5 }))
+                {
+                    <input class="btnhistory" type="submit" value="Next >" style="float:right;width:60px;height:30px !important;font: normal normal normal normal 13.5px/normal Arial;font-weight:bold;" />
+                }
+            </td>
+            <td>
+                @using (Html.BeginForm("Check", "History", new { check = 2 }))
+                {
+                    <input class="btnhistory" type="submit" value="Back to View" style="float:inherit;margin-left:40px;width:150px;height:30px !important;font: normal normal normal normal 13.5px/normal Arial;font-weight:bold;" />
+                }
+            </td>
+        </tr>
+    </table>
+</div>

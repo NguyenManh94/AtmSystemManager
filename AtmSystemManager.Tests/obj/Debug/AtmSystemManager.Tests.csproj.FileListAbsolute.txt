@@ -1,0 +1,163 @@
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll.config
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll.config
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll.config
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll.config
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.pdb
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.pdb
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll.config
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.Tests.pdb
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\AtmSystemManager.pdb
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\EntityFramework.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.Razor.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.csprojResolveAssemblyReference.cache
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager.Tests\obj\Debug\AtmSystemManager.Tests.pdb

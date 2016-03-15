@@ -1,0 +1,332 @@
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\New folder\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Test\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\Bản Chính Thức\Bản Chính Thức\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\Microsoft.CSharp.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Configuration.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Data.DataSetExtensions.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Data.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Data.Entity.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Drawing.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.EnterpriseServices.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.WebRequest.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Runtime.Serialization.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Security.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Abstractions.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.ApplicationServices.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.DynamicData.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Entity.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Extensions.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Routing.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Services.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Xml.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Xml.Linq.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+C:\Users\NguyenManh\Desktop\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.CSharp.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.ComponentModel.DataAnnotations.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Configuration.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.DataSetExtensions.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.Entity.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Drawing.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.EnterpriseServices.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.WebRequest.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Runtime.Serialization.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Security.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Abstractions.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.ApplicationServices.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.DynamicData.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Entity.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Extensions.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Routing.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Services.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Xml.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Xml.Linq.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+E:\Web Form and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.CSharp.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.ComponentModel.DataAnnotations.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Configuration.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.DataSetExtensions.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.Entity.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Drawing.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.EnterpriseServices.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.WebRequest.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Runtime.Serialization.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Security.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Abstractions.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.ApplicationServices.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.DynamicData.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Entity.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Extensions.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Routing.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Services.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Xml.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Xml.Linq.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+E:\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll.config
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\AtmSystemManager.pdb
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\EntityFramework.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.CSharp.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Infrastructure.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.ComponentModel.DataAnnotations.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Configuration.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.DataSetExtensions.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Data.Entity.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Drawing.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.EnterpriseServices.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.WebRequest.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Runtime.Serialization.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Security.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Abstractions.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.ApplicationServices.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.DynamicData.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Entity.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Extensions.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Routing.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Services.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Xml.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Xml.Linq.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\EntityFramework.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\Newtonsoft.Json.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Net.Http.Formatting.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Helpers.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Http.WebHost.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Mvc.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.Razor.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Deployment.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\bin\System.Web.WebPages.Razor.xml
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.dll
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.pdb
+E:\Developer Fsort\Dev Web F and MVC\MocProject\AtmSystemManager\AtmSystemManager\obj\Debug\AtmSystemManager.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Transfer01";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+<div class="ask_from01">
+    <div class="ask_from_system">
+        Cash transfer Rules by ATM system
+    </div>
+    <div class="ask_from_system_detail01">
+        <ul>
+            <li>Transfer maximum 100.000.000 VNĐ per day.</li>
+            <li>Transfer maximum 50.000.000 VNĐ once time.</li>
+            <li>Transfer minimum 50.000 VNĐ once time.</li>
+            <li>Amount transfer is multiples of 50.000 VNĐ.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="function">
+    <table class="functiontable" border="0">
+        
+        <tr>
+            <td class="right-key-ok-cancel">
+                @using (Html.BeginForm("Transfer01", "CashTranfer", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {<a href="Transfer02"><input type="button" value="Next" style="float: right !important;height: 50px !important;width: 150px !important;margin-right: 50px;" /></a>}
+            </td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel">
+                <a href="/Home/Index"><input type="button" value="Reject" /></a>
+            </td>
+        </tr>
+    </table>
+</div>

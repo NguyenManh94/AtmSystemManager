@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "InputPin";
+    Layout = "~/Views/Shared/_Master_Page_Validation.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/jquery-1.7.1.js"></script>
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+
+<div class="ask_from">
+    <div class="ask_from_system_1" style="padding-top:40px;">
+        ENTER PIN
+    </div>
+    <div class="check_mgs">
+        @ViewBag.Err
+    </div>
+</div>
+<div class="function">
+    @using (Html.BeginForm("InputPin", "Validation", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <table class="functiontable" border="0">
+            <tr>
+                <td colspan="2">
+                    <ul>
+                        <li>
+                            <input type="password" onclick="displayTable()" name="idPin" maxlength=6 id="idPIN" readonly style="width:300px; height:40px; margin-left:350px;font-size:30px !important;text-align:center;" />
+                        </li>
+                        <li>
+                            <input id="clear-text-index" onclick="disableTable()" type="button" value="" style="width: 44px !important; height: 44px !important;" />
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="key-board" rowspan="3">
+                    <table id="keyboard" border="0">
+                        <tr>
+                            <td>
+                                <input type="button" class="number" value="7" onclick="Add(7)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="8" onclick="Add(8)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="9" onclick="Add(9)" />
+                            </td>
+                            <td rowspan="2">
+                                <input type="submit" class="number" onclick="CheckCardID()" value="OK" style="height:122px !important;" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="button" class="number" value="4" onclick="Add(4)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="5" onclick="Add(5)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="6" onclick="Add(6)" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="button" class="number" value="1" onclick="Add(1)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="2" onclick="Add(2)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="3" onclick="Add(3)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="0" onclick="Add(0)" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="right-key"></td>
+            </tr>
+        </table>
+    }
+</div>

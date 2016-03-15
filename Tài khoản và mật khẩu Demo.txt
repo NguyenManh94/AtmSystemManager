@@ -1,0 +1,80 @@
+﻿Code trong sáng.. có sử dụng các 
++ Biểu thức lamda
++ Linq to Entity: hiện còn rất yếu
++ Phương thức vô danh Anonymous
++ Sử dụng từ khóa var và từ khóa dynamic
++ Sử dụng cú pháp khởi tạo giá trị ngay khi khởi tạo đối tượng
++ Sử dụng Session và Template(giá trị lưu duy chỉ 1 lần)
+
+-- chú ý học kỹ Entity DataModel
+
+Chú ý: khi thay đổi 1 kiểu dữ liệu thì bắt buộc phải cập nhật lại Entity Model
+AtmSystemModel
+-- Chú ý: Entity khi muốn thêm hoặc thay đổi Entity Model tự tạo thêm chữ s đằng sau tên của mỗi bảng :=]]
+
+89:Hợp lệ: AccountID:1         9704123456789         706789
+88:Hợp lệ: AccountID:2				     706788
+
+80: AccoutID:3- 2017	Attemp=0 nhưng chưa bị block vì 1 lý do nào đó 706780   
+81: AccountID:7-2014 	Hết hạn					706781
+82: AccountID:8 	Hết hạn nhưng vì 1 lý do nào đấy mà chưa block	706782
+83: AccountID:7-2018 	Hợp lệ	-(test block)			706783
+84: AccountID:6						706784
+85: AccountID:5						706785
+86: AccountID:4						706786
+87: AccountID:3-2013    Hết Hạn				706787
+
+-Tài khoản 3 và 7 xuất hiện 2 lần: cả 2 đều có thời gian hết hạn
+- Test Tài khoản 2 mã 706788 - số tiền 50 triệu đồng: Thấu chi: 30T ; Lượng tiền lớn nhất rút trong ngày 30T
+
+Test Tài khoản 6 mã 706784 -card no:9704123456784 - Balanced: -18 củ: rút trên 2 củ sẽ báo lỗi
+Test Tài khoản rút nhiều lần và không được phép rút quá
+
+
+
+
+
+
+Các nghiệp vụ đã xử lý với Validate Control()
+- Block: Thẻ hết hạn- bao gồm hết hạn sẵn và bị khóa do nhập quá mã PIN
+=> Xử lý nghiệp vụ với thẻ lâu ngày không dùng --> cho tới khi hết hạn ==> thực hiện giao dịch và sẽ bị block
+-
+hôm nay tìm được các truyền tham số dữ liệu với chỉ 1 form action duy nhất
+
+
+
+
+
+
+Hảo
+Balance: dùng giá trị âm
+nếu âm thì hiên thị tiền 50k
+
+Nam
+Như vậy thì khi gửi tiền thì số tiền nhận cộng vào luôn Balance
+Hóa đơn chuyển trang blank
+
+ĐẠT
+linq- Lambda
+http://stackoverflow.com/questions/15577890/how-to-use-lambda-in-linq-select-statement
+http://stackoverflow.com/questions/7286328/linq-to-entities-select-clause-with-lambda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

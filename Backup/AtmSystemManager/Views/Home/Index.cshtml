@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Khoa Công nghệ thông tin - Đại học Công nghiệp Hà Nội";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+@using (Html.BeginForm("CheckTransaction", "Withdraw", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="ask_from">
+        <div class="ask_from_system">
+            SELECT TRANSACTION
+        </div>
+    </div>
+    <div class="function">
+        <table class="functiontable" border="0">
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="left-key">
+                    <a href="/Withdraw/Withdraw"><input type="button" value="Withdraw" /></a>
+                </td>
+                <td class="right-key">
+                    <a href="/History/Index"><input type="button" value="View History" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td class="left-key">
+                    <a href="/CheckBalance/Index"><input type="button" value="Check Balance" /></a>
+                </td>
+                <td class="right-key">
+                    <a href="/ChangePIN/Step1"><input type="button" value="Change PIN" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td class="left-key">
+                    <a href="/CashTranfer/Transfer01"><input type="button" value="Cash Tranfer" /></a>
+                </td>
+                <td class="right-key">
+                    <a href="/Validation/InputCard"><input type="button" value="Exit" onclick="return confirm('Are you sure you want to do this?')" /></a>
+                </td>
+            </tr>
+        </table>
+    </div>
+}

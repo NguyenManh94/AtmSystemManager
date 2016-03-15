@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Transfer05";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+
+
+<div class="ask_from">
+    <div class="ask_from_system">
+        CASH TRANSFER
+    </div>
+    <div class="ask_from_system_detail">
+        Press Enter to continue, Reject to re-enter amount!
+    </div>
+</div>
+<div class="function">
+    <table class="functiontable" border="0" style="font-size: 20px;">
+        <tr style="height:40px !important;">
+            <td colspan="2">
+                <b class="text1">Account receiver Name:</b> @ViewBag.Name
+            </td>
+        </tr>
+        <tr style="height:40px !important;">
+            <td colspan=" 2">
+            <b class="text1">Account receiver ID:</b> @ViewBag.Number
+            </td>
+        </tr>
+        <tr style="height:40px !important;">
+            <td colspan=" 2">
+            <b class="text1">Amount:</b> @ViewBag.Amount
+            </td>
+        </tr>
+        <tr>
+
+            <td class="right-key-ok-cancel" colspan="2">
+                <a href=" transfer06"><input type="button" value="Enter"></a>
+            </td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel" colspan="2">
+                <a href="Transfer04"><input type="button" value="Reject"></a>
+            </td>
+        </tr>
+    </table>
+</div>

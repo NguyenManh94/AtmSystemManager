@@ -1,0 +1,120 @@
+﻿@{
+    ViewBag.Title = "AccountNotExist";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script>
+    function displayTable() {
+        var change = document.getElementById("keyboard_1");
+        change.style.display = "block";
+    }
+    function disableTable() {
+        var change = document.getElementById("keyboard_1");
+        change.style.display = "none";
+    }
+    function Clear() {
+        document.getElementById("idPIN").value = "";
+    }
+    function Add(n) {
+
+        var st = document.getElementById("idPIN").value;
+        if (st.length < 13) {
+            document.getElementById("idPIN").value += n;
+        }
+    }
+</script>
+
+<div class="blank">
+</div>
+<div class="ask_from_system_detail" style="color:red; text-wrap:normal;">
+    Account not exist.
+    Re-enter account you want to transfer!<br />
+    @ViewBag.timeInputNo
+</div>
+<div class="blank">
+</div>
+<div class="function">
+    @using (Html.BeginForm("AccountNotExist", "CashTranfer", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <table class="functiontable_2" border="0">
+            <tr style="height:30px;">
+                <td colspan="3">
+                    
+                </td>
+            </tr>
+           
+            <tr style="height:30px;">
+                <td colspan="3">
+                    <div class="lmain-container">
+                        
+
+                        <input onclick="displayTable()" name="idRecieve" id="idPIN" type="text" style="width:250px;height:30px;font-size:20px;margin-left:60px;float:left;text-align:center" maxlength="13" readonly="readonly" />
+                        <input onclick="Clear(); disableTable()" type="button" style="float:left;width:60px;height:34px;background-repeat:no-repeat;background-position:center;background-image:url('/Images/delete_34x34.png'); background-color:#fff" />
+
+
+                    </div>
+                </td>
+            </tr>
+            <tr class="key-board-1">
+                <td colspan="2" rowspan="2">
+                    <div class="key-board">
+                        <table id="keyboard_1" border="0">
+                            <tr>
+                                <td>
+                                    <input type="button" class="number1" value="7" onclick="Add(7)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="number1" value="8" onclick="Add(8)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="number1" value="9" onclick="Add(9)" />
+                                </td>
+                                <td rowspan="3">
+                                    <input type="button" class="number1" value="0" onclick="Add(0)" style="height:188px !important;" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="button" class="number1" value="4" onclick="Add(4)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="number1" value="5" onclick="Add(5)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="number1" value="6" onclick="Add(6)" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="button" class="number1" value="1" onclick="Add(1)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="number1" value="2" onclick="Add(2)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="number1" value="3" onclick="Add(3)" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+                <td class="right-key-ok-cancel">
+                    <a href="Transfer03">
+                        <input type="submit" value="Enter" style="float: right !important; height: 50px !important; width: 150px !important; margin-right: 50px; background-color: #2980B9; color: #fff; font-size: 20px; font-weight: bold;">
+                    </a>
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <a href="Transfer01">
+                        <input type="button" value="Cancel">
+                    </a>
+                </td>
+            </tr>
+        </table>
+    }
+</div>
+
+
+

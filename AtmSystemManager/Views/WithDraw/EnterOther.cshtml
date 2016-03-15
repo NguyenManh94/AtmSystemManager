@@ -1,0 +1,87 @@
+﻿@{
+    ViewBag.Title = "EnterOther";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/jquery-1.7.1.js"></script>
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+<div class="ask_from">
+    <div class="ask_from_system">
+        ENTER OTHER
+    </div>
+    <div class="ask_from_system_detail" style="color:@ViewBag.cl">
+        Enter your amount you want to withdraw below number you enter have to divisible to 50.000
+    </div>
+</div>
+<div class="function">
+    @using (Html.BeginForm("EnterOther", "Withdraw", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <table class="functiontable" border="0">
+            <tr>
+                <td colspan="2">
+                    <ul>
+                        <li>
+                            <input readonly name="amount" type="text" onclick="displayTable()" id="idPIN" style="width: 300px; height: 40px; margin-left: 350px !important;" />
+                        </li>
+                        <li>
+                            <input class="clear-text" id="removeText"  onclick="disableTable()" type="button" value="" style="width: 44px !important; height: 44px !important;" />
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="key-board" rowspan="3">
+                    <table id="keyboard" border="0">
+                        <tr>
+                            <td>
+                                <input type="button" class="number" value="7" onclick="Add(7)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="8" onclick="Add(8)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="9" onclick="Add(9)" />
+                            </td>
+                            <td rowspan="3">
+                                <input type="button" class="number" value="0" onclick="Add(0)" style="height:188px !important;" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="button" class="number" value="4" onclick="Add(4)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="5" onclick="Add(5)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="6" onclick="Add(6)" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="button" class="number" value="1" onclick="Add(1)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="2" onclick="Add(2)" />
+                            </td>
+                            <td>
+                                <input type="button" class="number" value="3" onclick="Add(3)" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="right-key"></td>
+            </tr>
+            <tr>
+                <td class="right-key-ok-cancel">
+                    <input type="submit" value="OK" style="float: right !important;height: 50px !important;width: 150px !important;margin-right: 50px;" />
+                </td>
+            </tr>
+            <tr>
+                <td class="right-key-ok-cancel">
+                    <a href="Withdraw/Withdraw"><input type="button" value="Cancel" /></a>
+                </td>
+            </tr>
+        </table>
+    }
+</div>

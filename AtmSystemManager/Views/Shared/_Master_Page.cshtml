@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Images/favicon.ico " rel="shortcut icon" type="image/x-icon" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="All">
+        <div id="banner">
+        </div>
+        <div id="content">
+            <div id="content_header">
+                <a class="back_to_home" href="/Home/Index">
+                    @*<input type="button" class="back_to_home" />*@
+                    <img src="~/Images/back-icon.png" />
+                </a>
+            </div>
+            <div id="content_container">
+                @RenderBody()
+            </div>
+        </div>
+        <div id="footer">
+                <p>Copyright 2015 Group 3 056_HN_HAUI_04_NET</p>
+        </div>
+    </div>
+</body>
+</html>

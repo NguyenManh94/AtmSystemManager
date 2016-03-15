@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ManagerATMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="AccountID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustID" Type="int" Nullable="false" />
+    <Property Name="AccountNo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ODID" Type="int" Nullable="false" />
+    <Property Name="WDID" Type="int" Nullable="false" />
+    <Property Name="Balance" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ATM">
+    <Key>
+      <PropertyRef Name="ATMID" />
+    </Key>
+    <Property Name="ATMID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Branch" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Card">
+    <Key>
+      <PropertyRef Name="CardNo" />
+    </Key>
+    <Property Name="CardNo" Type="varchar" MaxLength="128" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="AccountID" Type="int" Nullable="false" />
+    <Property Name="PIN" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="ExpiredDate" Type="datetime" />
+    <Property Name="Attempt" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'C:\USERS\NGUYENMANH\DESKTOP\TEST\ATMSYSTEMMANAGER\ATMSYSTEMMANAGER\APP_DATA\MANAGERATM.MDF.dbo.Config' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Config">
+    <Key>
+      <PropertyRef Name="DateModified" />
+      <PropertyRef Name="MinWithDraw" />
+      <PropertyRef Name="MaxWithDraw" />
+      <PropertyRef Name="NumberPerPage" />
+    </Key>
+    <Property Name="DateModified" Type="datetime" Nullable="false" />
+    <Property Name="MinWithDraw" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="MaxWithDraw" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="NumberPerPage" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustID" />
+    </Key>
+    <Property Name="CustID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Addr" Type="nvarchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Log">
+    <Key>
+      <PropertyRef Name="LogID" />
+    </Key>
+    <Property Name="LogID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LogTypeID" Type="int" Nullable="false" />
+    <Property Name="ATMID" Type="int" Nullable="false" />
+    <Property Name="CardNo" Type="varchar" MaxLength="128" />
+    <Property Name="LogDate" Type="datetime" />
+    <Property Name="Amount" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Details" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="LogType">
+    <Key>
+      <PropertyRef Name="LogTypeID" />
+    </Key>
+    <Property Name="LogTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Money">
+    <Key>
+      <PropertyRef Name="MoneyID" />
+    </Key>
+    <Property Name="MoneyID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MoneyValue" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OverDraft_Limit">
+    <Key>
+      <PropertyRef Name="ODID" />
+    </Key>
+    <Property Name="ODID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Value" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Stock">
+    <Key>
+      <PropertyRef Name="StockID" />
+    </Key>
+    <Property Name="StockID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MoneyID" Type="int" Nullable="false" />
+    <Property Name="ATMID" Type="int" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="WithDraw_Limit">
+    <Key>
+      <PropertyRef Name="WDID" />
+    </Key>
+    <Property Name="WDID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Value" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Account_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Account" Type="Self.Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustID" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="CustID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Account_OverDraftLimit">
+    <End Role="OverDraft_Limit" Type="Self.OverDraft_Limit" Multiplicity="1" />
+    <End Role="Account" Type="Self.Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OverDraft_Limit">
+        <PropertyRef Name="ODID" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="ODID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Account_WithDrawLimit">
+    <End Role="WithDraw_Limit" Type="Self.WithDraw_Limit" Multiplicity="1" />
+    <End Role="Account" Type="Self.Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="WithDraw_Limit">
+        <PropertyRef Name="WDID" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="WDID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Card_Account">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="Card" Type="Self.Card" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountID" />
+      </Principal>
+      <Dependent Role="Card">
+        <PropertyRef Name="AccountID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Log_ATM">
+    <End Role="ATM" Type="Self.ATM" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ATM">
+        <PropertyRef Name="ATMID" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="ATMID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Log_Card">
+    <End Role="Card" Type="Self.Card" Multiplicity="0..1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Card">
+        <PropertyRef Name="CardNo" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="CardNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Log_LogType">
+    <End Role="LogType" Type="Self.LogType" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LogType">
+        <PropertyRef Name="LogTypeID" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="LogTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stock_ATM">
+    <End Role="ATM" Type="Self.ATM" Multiplicity="1" />
+    <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ATM">
+        <PropertyRef Name="ATMID" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="ATMID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stock_Money">
+    <End Role="Money" Type="Self.Money" Multiplicity="1" />
+    <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Money">
+        <PropertyRef Name="MoneyID" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="MoneyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ManagerATMModelStoreContainer">
+    <EntitySet Name="Account" EntityType="Self.Account" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ATM" EntityType="Self.ATM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Card" EntityType="Self.Card" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Log" EntityType="Self.Log" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LogType" EntityType="Self.LogType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Money" EntityType="Self.Money" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OverDraft_Limit" EntityType="Self.OverDraft_Limit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Stock" EntityType="Self.Stock" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="WithDraw_Limit" EntityType="Self.WithDraw_Limit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Config" EntityType="Self.Config" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Config].[DateModified] AS [DateModified], 
+[Config].[MinWithDraw] AS [MinWithDraw], 
+[Config].[MaxWithDraw] AS [MaxWithDraw], 
+[Config].[NumberPerPage] AS [NumberPerPage]
+FROM [dbo].[Config] AS [Config]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Account_Customer" Association="Self.FK_Account_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Account" EntitySet="Account" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Account_OverDraftLimit" Association="Self.FK_Account_OverDraftLimit">
+      <End Role="OverDraft_Limit" EntitySet="OverDraft_Limit" />
+      <End Role="Account" EntitySet="Account" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Account_WithDrawLimit" Association="Self.FK_Account_WithDrawLimit">
+      <End Role="WithDraw_Limit" EntitySet="WithDraw_Limit" />
+      <End Role="Account" EntitySet="Account" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Card_Account" Association="Self.FK_Card_Account">
+      <End Role="Account" EntitySet="Account" />
+      <End Role="Card" EntitySet="Card" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Log_ATM" Association="Self.FK_Log_ATM">
+      <End Role="ATM" EntitySet="ATM" />
+      <End Role="Log" EntitySet="Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Log_Card" Association="Self.FK_Log_Card">
+      <End Role="Card" EntitySet="Card" />
+      <End Role="Log" EntitySet="Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Log_LogType" Association="Self.FK_Log_LogType">
+      <End Role="LogType" EntitySet="LogType" />
+      <End Role="Log" EntitySet="Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stock_ATM" Association="Self.FK_Stock_ATM">
+      <End Role="ATM" EntitySet="ATM" />
+      <End Role="Stock" EntitySet="Stock" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stock_Money" Association="Self.FK_Stock_Money">
+      <End Role="Money" EntitySet="Money" />
+      <End Role="Stock" EntitySet="Stock" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

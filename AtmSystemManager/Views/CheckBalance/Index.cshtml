@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+
+<div class="ask_from">
+    <div class="ask_from_system">
+        CHECK BALANCE
+    </div>
+    <div class="ask_from_system_detail">
+        Your account have: <label style="color:red">@ViewBag.Balance</label>
+    </div>
+</div>
+<div class="function">
+    <table class="functiontable" border="0">
+        <tr>
+            <td colspan="2" class="ask_from_system_detail">
+                Do you want to get Receipt?
+            </td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel">
+                @using (Html.BeginForm("Report", "CheckBalance"))
+                {
+                    <input type="submit" value="OK" style="float: right !important;height: 50px !important;width: 150px !important;margin-right: 50px;" />
+                }
+            </td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel">
+                @using (Html.BeginForm("NoReport", "CheckBalance"))
+                {
+                    <input type="submit" value="Cancel" style="float: right !important;height: 50px !important;width: 150px !important;margin-right: 50px;" />
+                }
+            </td>
+        </tr>
+    </table>
+</div>

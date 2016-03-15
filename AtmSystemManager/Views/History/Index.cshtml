@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<script src="~/Content/JavaScript/JavaScript.js"></script>
+<div class="ask_from">
+    <div class="ask_from_system">
+        SELECT TIME TO VIEW HISTORY
+    </div>
+</div>
+<div class="function">
+    <table class="functiontable" border="0">
+
+        <tr>
+            <td>
+                @using (Html.BeginForm("ShowHistory", "History", new { day = 7 }))
+                {
+                    <input type="submit" value="1 Week ago" />
+                }
+            </td>
+            <td class="right-key">
+                @using (Html.BeginForm("ShowHistory", "History", new { day = 180 }))
+                {
+                    <input class="rbutton" type="submit" value="6 Month ago" />
+                }
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @using (Html.BeginForm("ShowHistory", "History", new { day = 30 }))
+                {
+                    <input type="submit" value="1 Month ago" />
+                }
+            </td>
+            <td class="right-key">
+                @using (Html.BeginForm("ShowHistory", "History", new { day = 365 }))
+                {
+                    <input class="rbutton" type="submit" value="1 Year ago" />
+                }
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @using (Html.BeginForm("ShowHistory", "History", new { day = 60 }))
+                {
+                    <input type="submit" value="2 Month ago" />
+                }
+            </td>
+            <td class="right-key">
+                @using (Html.BeginForm("ShowHistory", "History", new { day = 730 }))
+                {
+                    <input class="rbutton" type="submit" value="2 Year ago" />
+                }
+            </td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Transfer06";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+
+<div class="ask_from">
+    <div class="ask_from_system">
+        CASH TRANFER
+    </div>
+    <div class="ask_from_system_detail" style="color:green;">
+        Transfer success.
+        Do you want recieve receipt!
+
+    </div>
+</div>
+<div class="function">
+    <table class="functiontable" border="0">
+        <tr>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel">
+                <a href="Receipt"><input type="submit" value="Accept" style="float: right !important;height: 50px !important;width: 150px !important;margin-right: 50px;" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td class="right-key-ok-cancel">
+                <a href="/Home/Index"><input type="button" value="Reject" style="float: right !important;height: 50px !important;width: 150px !important;margin-right: 50px;" /></a>
+            </td>
+        </tr>
+    </table>
+</div>
+

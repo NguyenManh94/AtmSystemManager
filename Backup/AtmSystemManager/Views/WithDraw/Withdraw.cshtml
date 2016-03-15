@@ -1,0 +1,72 @@
+﻿@{
+    ViewBag.Title = "Withdraw";
+    Layout = "~/Views/Shared/_Master_Page.cshtml";
+}
+<link href="~/Content/Css/Style_MaterPage.css" rel="stylesheet" />
+<div class="ask_from">
+    <div class="ask_from_system">
+        SELECT AMOUNT
+    </div>
+    @if (@ViewBag.err == "" || @ViewBag.err == null)
+    {
+        <div class="ask_from_system_detail">
+            Choose amount below or enter your amount you want
+        </div>
+    }
+    else
+    {
+        <div class="ask_from_system_detail" style="color:red;">
+            @ViewBag.err
+        </div>
+    }
+</div>
+<div class="function">
+    <table class="functiontable" border="0">
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="left-key">
+                @using (Html.BeginForm("Withdraw", "Withdraw", new { amount = 500000 }))
+                {
+                    <input type="submit" value="500.000" />
+                }
+            </td>
+            <td class="right-key">
+                @using (Html.BeginForm("Withdraw", "Withdraw", new { amount = 1000000 }))
+                {
+                    <input type="submit" value="1.000.000" />
+                }
+            </td>
+        </tr>
+        <tr>
+            <td class="left-key">
+                @using (Html.BeginForm("Withdraw", "Withdraw", new { amount = 2000000 }))
+                {
+                    <input type="submit" value="2.000.000" />
+                }
+            </td>
+            <td class="right-key">
+                @using (Html.BeginForm("Withdraw", "Withdraw", new { amount = 2500000 }))
+                {
+                    <input type="submit" value="2.500.000" />
+                }
+            </td>
+        </tr>
+        <tr>
+            <td class="left-key">
+                @using (Html.BeginForm("Withdraw", "Withdraw", new { amount = 3000000 }))
+                {
+                    <input type="submit" value="3.000.000" />
+                }
+            </td>
+            <td class="right-key">
+                @using (Html.BeginForm("Withdraw", "Withdraw", new { amount = 1 }))
+                {
+                    <input type="submit" value="Enter other" />
+                }
+            </td>
+        </tr>
+    </table>
+</div>
